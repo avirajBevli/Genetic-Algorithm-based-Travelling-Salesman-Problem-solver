@@ -20,7 +20,10 @@ city_y = []
 travel_order = []
 city_order_x = []
 city_order_y = []
-n = 29
+
+#Change this parameter according to the number of
+#cities in the data set
+n = 127
 
 print("HI")
 
