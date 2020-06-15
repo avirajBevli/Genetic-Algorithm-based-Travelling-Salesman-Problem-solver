@@ -18,8 +18,8 @@ int main()
   int index;
   double x, y;
   ifstream fin; 
-  //fin.open("bier127.txt");
-  fin.open("kroA100.txt");
+  fin.open("bier127.txt");
+  //fin.open("kroA100.txt");
   
   fin>>index;
   while(!fin.eof())
